@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=AntonyLeons&label=Profile%20views&color=0e75b6&style=flat" alt="antonyleons" /> </p>
-<h1 align="center">Hi 👋, I'm Antony</h1>
+<h1 align="center">Hi �<img src="https://raw.githubusercontent.com/AntonyLeons/AntonyLeons/main/wave.gif" width="30px">, I'm Antony</h1>
 <h3 align="center">A passionate developer based near Hull</h3>
 
 - 🔭 I’m currently working on **[WARD](https://github.com/AntonyLeons/Ward)**
