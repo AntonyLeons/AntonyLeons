@@ -18,7 +18,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<table>
+<table border="0" cellpadding="6" cellspacing="0" style="border:0; border-collapse:collapse;">
 <tr>
 <td><a href="https://t.me/Leonsdev" target="blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Leonsdev" height="30" width="40" /></a></td>
 <td><a href="https://linkedin.com/in/antony-leons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-leons" height="30" width="40" /></a></td>
@@ -27,7 +27,7 @@
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
-<table>
+<table border="0" cellpadding="6" cellspacing="0" style="border:0; border-collapse:collapse;">
 <tr>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/></a></td>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a></td>
