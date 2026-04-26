@@ -1,0 +1,100 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-04-26T20:17:14.310Z",
+  "profile": {
+    "title": "Antony Leons",
+    "subtitle": "A seasoned Java developer",
+    "currentWork": "lots of things...",
+    "currentLearn": "WebRTC",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "Self-hosting with docker",
+    "contact": "antony@leons.dev",
+    "funFact": "I ❤️ spicy noodles",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://leons.dev",
+    "blog": "https://blog.leons.dev",
+    "resume": "https://cv.leons.dev"
+  },
+  "social": {
+    "github": "",
+    "dev": "",
+    "linkedin": "antony-leons",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "AntonyLeons",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "arduino",
+    "bash",
+    "docker",
+    "flutter",
+    "git",
+    "java",
+    "linux",
+    "nodejs",
+    "postgresql",
+    "python",
+    "react",
+    "spring",
+    "tailwind",
+    "typescript"
+  ]
+}
